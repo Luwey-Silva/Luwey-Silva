@@ -15,7 +15,9 @@
   <img align="center" alt="Luwey-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luwey-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luwey-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luwey-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+  <img align="center" alt="Luwey-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+  <img align="center" alt="Luwey-Python" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
+  <img align="center" alt="Luwey-Python" height="25" width="25" src="https://raw.githubusercontent.com/kivymd/internal/main/logo/kivymd.png" />
   <img align="right" alt="Rafa-pic" width="80" height="80" style="border-radius:50px;" src="https://s10.gifyu.com/images/ezgif.com-gif-maker-2869e4c176f4442ce.gif">
 </div>
 
