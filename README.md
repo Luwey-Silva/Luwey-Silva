@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="../static/style.css">
     <link rel="icon" href="../static/img/">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
-    <title>Flask</title>
 </head>
 <body>
+    <h1>ola</h1>
   <canvas id="canvas"></canvas>
 </body>
 </html>
