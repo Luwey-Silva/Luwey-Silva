@@ -1,3 +1,24 @@
+<!--<main></main>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="../static/style.css">
+    <link rel="icon" href="../static/img/">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <title>Flask</title>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+</body>
+</html>
+
+
+
+
 ### Olá 👋. Eu sou o Luwey Silva
 
 - 🔭 Estou actualmente estudando para me tornar um especialista em TI para a integração de sistemas e também especialista de TI no desenvolvimento de aplicações
