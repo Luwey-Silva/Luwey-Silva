@@ -1,8 +1,5 @@
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">. 
 ### Eu sou o Luwey Silva
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media4.giphy.com/media/128Ygie2wLdH5m/giphy.gif?cid=790b7611b241908ab872e575f9c928be67caf3c2695fb599&rid=giphy.gif&ct=g" height="100" width="900"></a>
-</p>
 
 - 🔭 Estou actualmente estudando para me tornar um especialista em TI para a integração de sistemas e também especialista de TI no desenvolvimento de aplicações
 - 🌱 Estudando Python, Java, HTML e CSS, Kivy e QT
