@@ -61,6 +61,4 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Luwey-Silva/Luwey-Silva/output/github-contribution-grid-snake-dark.svg" />
 
-<img src="https://raw.githubusercontent.com/luwey-silva/luwey-silva/output/snake.svg" alt="Snake animation" />
-
 ###
