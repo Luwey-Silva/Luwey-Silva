@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/Luwey-Silva/Luwey-Silva/blob/output/github-contribution-grid-snake2.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Luwey-Silva/Luwey-Silva/output/github-contribution-grid-snake.svg" />
 
 ###
