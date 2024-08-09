@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋! Mein name ist Luwey Da Silva. :)</h1>
 
+<p align="center">
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/edit/main/README.md"><span>Deutsch</span></a>|
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/edit/main/README-PT.md"><span>Português</span></a>|
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/edit/main/README-EN.md"><span>English</span></a>|
+
 ###
 
 <div align="center">
