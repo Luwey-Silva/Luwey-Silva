@@ -16,31 +16,33 @@
 
 ###
 <div align="center">
-<a href="https://github.com/Luwey-Silva/password-update-tool-GUI">Password-update-tool-GUI<a/>
+<a href="https://github.com/Luwey-Silva/password-update-tool-GUI">Password Update Tool GUI<a/>
 <br>
 <br>
-<a href="https://github.com/Luwey-Silva/password-update-tool-GUI">Password-update-tool-GUI<a/>
+<a href="https://github.com/Luwey-Silva/Wochenberichtapp-version-4_-_XReports">Wochenberichtapp version 4 XReports<a/>
 <br>
 <br>
-<a href="https://github.com/Luwey-Silva/password-update-tool-GUI">Password-update-tool-GUI<a/>
+<a href="https://github.com/Luwey-Silva/Streamlit-wochenbericht-app">Streamlit-wochenbericht-app<a/>
 <br>
 <br>
-<a href="https://github.com/Luwey-Silva/password-update-tool-GUI">Password-update-tool-GUI<a/>
+<a href="https://github.com/Luwey-Silva/luwey-silva-terminal-portfolio">Terminal Portfolio<a/>
 </div>
-<br>
-<br>
 <br>
 <br>
 
 <h2 align="left">Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luwey-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luwey-silva&locale=de&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luwey-silva&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luwey-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luwey-silva&locale=de&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luwey-silva&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
 </div>
+<br>
+<br>
+
 
 ###
+<h2 align="left">Programmier Sprachen die ich schon benutzt habe...</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
@@ -59,6 +61,7 @@
 </div>
 
 ###
+<br>
 
 <h2 align="left">Kontakt</h2>
 
