@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋! My name is Luwey Da Silva. :)</h1>
 
 ###
+<p align="center">
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/blob/main/README.md"><span>Deutsch</span></a>|
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/blob/main/README-PT.md"><span>Português</span></a>|
+        <a href="https://github.com/Luwey-Silva/Luwey-Silva/blob/main/README-EN.md"><span>English</span></a>|
 
 <div align="center">
   <img height="230" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
