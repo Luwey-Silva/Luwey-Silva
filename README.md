@@ -33,9 +33,9 @@
 <h2 align="left">Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luwey-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luwey-silva&locale=de&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luwey-silva&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luwey-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luwey-silva&locale=pt&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luwey-silva&locale=pt&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
 </div>
 <br>
 <br>
